@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611948662600",
+    "project_id": "wesamrestaurant-4f38e",
+    "storage_bucket": "wesamrestaurant-4f38e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611948662600:android:5514c3d85aacce51036d7d",
+        "android_client_info": {
+          "package_name": "com.trios.wesamrestaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHn6PZHDQf0IZOjllYROHzHdVQ0Qid_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
